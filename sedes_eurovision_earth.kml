@@ -1,0 +1,2393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>sedes_eurovisionOk.csv</name>
+	<StyleMap id="icon-1899-0288D1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-0288D1-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-0288D1-highlight">
+		<IconStyle>
+			<color>ffd18802</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-normal">
+		<IconStyle>
+			<color>ffd18802</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>Teatro Kursaal</name>
+		<address>Teatro Kursaal, Lugano, Suiza</address>
+		<description><![CDATA[Año: 1956<br>Ciudad: Lugano<br>País: Suiza<br>Radiodifusora: SRG SSR<br>Participantes: 7<br>geo: Teatro Kursaal, Lugano, Suiza]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1956.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Lugano</value>
+			</Data>
+			<Data name="País">
+				<value>Suiza</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>SRG SSR</value>
+			</Data>
+			<Data name="Participantes">
+				<value>7.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Teatro Kursaal, Lugano, Suiza</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>8.955101299999999,46.00395349999999,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					8.952062127415894,46.00167412056191,0 8.952062127415894,46.0062328794381,0 8.958140472584104,46.0062328794381,0 8.958140472584104,46.00167412056191,0 8.952062127415894,46.00167412056191,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Großer Sendesaal des hessischen Rundfunks</name>
+		<address>Großer Sendesaal des hessischen Rundfunks, Fráncfort del Meno, Alemania</address>
+		<description><![CDATA[Año: 1957<br>Ciudad: Fráncfort del Meno<br>País: Alemania<br>Radiodifusora: ARD<br>Participantes: 10<br>geo: Großer Sendesaal des hessischen Rundfunks, Fráncfort del Meno, Alemania]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1957.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Fráncfort del Meno</value>
+			</Data>
+			<Data name="País">
+				<value>Alemania</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>ARD</value>
+			</Data>
+			<Data name="Participantes">
+				<value>10.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Großer Sendesaal des hessischen Rundfunks, Fráncfort del Meno, Alemania</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>8.6779362,50.1368641,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					8.675131773274734,50.134760779956,0 8.675131773274734,50.1389674200439,0 8.680740626725266,50.1389674200439,0 8.680740626725266,50.134760779956,0 8.675131773274734,50.134760779956,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Estudios AVRO</name>
+		<address>Estudios AVRO, Hilversum, Países Bajos</address>
+		<description><![CDATA[Año: 1958<br>Ciudad: Hilversum<br>País: Países Bajos<br>Radiodifusora: NOS<br>Participantes: 10<br>geo: Estudios AVRO, Hilversum, Países Bajos]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1958.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Hilversum</value>
+			</Data>
+			<Data name="País">
+				<value>Países Bajos</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>NOS</value>
+			</Data>
+			<Data name="Participantes">
+				<value>10.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Estudios AVRO, Hilversum, Países Bajos</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>5.167743799999999,52.2438813,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					5.165064740679118,52.24187200550929,0 5.165064740679118,52.2458905944907,0 5.170422859320881,52.2458905944907,0 5.170422859320881,52.24187200550929,0 5.165064740679118,52.24187200550929,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Palais des Festivals</name>
+		<address>Palais des Festivals, Cannes, Francia</address>
+		<description><![CDATA[Año: 1959<br>Ciudad: Cannes<br>País: Francia<br>Radiodifusora: RTF<br>Participantes: 11<br>geo: Palais des Festivals, Cannes, Francia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1959.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Cannes</value>
+			</Data>
+			<Data name="País">
+				<value>Francia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTF</value>
+			</Data>
+			<Data name="Participantes">
+				<value>11.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Palais des Festivals, Cannes, Francia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>7.017962199999999,43.5507813,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					7.014791080196725,43.5484029601475,0 7.014791080196725,43.5531596398525,0 7.021133319803275,43.5531596398525,0 7.021133319803275,43.5484029601475,0 7.014791080196725,43.5484029601475,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Royal Festival Hall</name>
+		<address>Royal Festival Hall, Londres, Reino Unido</address>
+		<description><![CDATA[Año: 1960<br>Ciudad: Londres<br>País: Reino Unido<br>Radiodifusora: BBC<br>Participantes: 13<br>geo: Royal Festival Hall, Londres, Reino Unido]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1960.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Londres</value>
+			</Data>
+			<Data name="País">
+				<value>Reino Unido</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>BBC</value>
+			</Data>
+			<Data name="Participantes">
+				<value>13.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Royal Festival Hall, Londres, Reino Unido</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-0.1166288,51.50580619999999,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-0.119352185339821,51.5037636609951,0 -0.119352185339821,51.5078487390049,0 -0.113905414660179,51.5078487390049,0 -0.113905414660179,51.5037636609951,0 -0.119352185339821,51.5037636609951,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Palais des Festivals</name>
+		<address>Palais des Festivals, Cannes, Francia</address>
+		<description><![CDATA[Año: 1961<br>Ciudad: Cannes<br>País: Francia<br>Radiodifusora: TF1<br>Participantes: 16<br>geo: Palais des Festivals, Cannes, Francia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1961.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Cannes</value>
+			</Data>
+			<Data name="País">
+				<value>Francia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>TF1</value>
+			</Data>
+			<Data name="Participantes">
+				<value>16.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Palais des Festivals, Cannes, Francia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>7.017962199999999,43.5507813,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					7.014791080196725,43.5484029601475,0 7.014791080196725,43.5531596398525,0 7.021133319803275,43.5531596398525,0 7.021133319803275,43.5484029601475,0 7.014791080196725,43.5484029601475,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Grand Auditorium de RTL, Villa Louvigny</name>
+		<address>1 Bd Robert Schuman, 2525 Ville-Haute Luxembourg</address>
+		<description><![CDATA[Año: 1962<br>Ciudad: Luxemburgo<br>País: Luxemburgo<br>Radiodifusora: RTL<br>Participantes: 16<br>geo: 1 Bd Robert Schuman, 2525 Ville-Haute Luxembourg]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1962.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Luxemburgo</value>
+			</Data>
+			<Data name="País">
+				<value>Luxemburgo</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTL</value>
+			</Data>
+			<Data name="Participantes">
+				<value>16.0</value>
+			</Data>
+			<Data name="geo">
+				<value>1 Bd Robert Schuman, 2525 Ville-Haute Luxembourg</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>6.1264028,49.6170689,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					6.123568018395857,49.61494281379691,0 6.123568018395857,49.6191949862031,0 6.129237581604144,49.6191949862031,0 6.129237581604144,49.61494281379691,0 6.123568018395857,49.61494281379691,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>BBC Television Centre</name>
+		<address>BBC Television Centre, Londres, Reino Unido</address>
+		<description><![CDATA[Año: 1963<br>Ciudad: Londres<br>País: Reino Unido<br>Radiodifusora: BBC<br>Participantes: 16<br>geo: BBC Television Centre, Londres, Reino Unido]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1963.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Londres</value>
+			</Data>
+			<Data name="País">
+				<value>Reino Unido</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>BBC</value>
+			</Data>
+			<Data name="Participantes">
+				<value>16.0</value>
+			</Data>
+			<Data name="geo">
+				<value>BBC Television Centre, Londres, Reino Unido</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-0.2268465,51.5100255,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-0.229569633113588,51.5079831501648,0 -0.229569633113588,51.5120678498352,0 -0.224123366886412,51.5120678498352,0 -0.224123366886412,51.5079831501648,0 -0.229569633113588,51.5079831501648,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Tivolis Koncertsal</name>
+		<address>Tivolis Koncertsal, Copenhague, Dinamarca</address>
+		<description><![CDATA[Año: 1964<br>Ciudad: Copenhague<br>País: Dinamarca<br>Radiodifusora: DR<br>Participantes: 16<br>geo: Tivolis Koncertsal, Copenhague, Dinamarca]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1964.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Copenhague</value>
+			</Data>
+			<Data name="País">
+				<value>Dinamarca</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>DR</value>
+			</Data>
+			<Data name="Participantes">
+				<value>16.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Tivolis Koncertsal, Copenhague, Dinamarca</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>12.5685371,55.6728251,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					12.5660697462198,55.6709745846649,0 12.5660697462198,55.6746756153351,0 12.5710044537801,55.6746756153351,0 12.5710044537801,55.6709745846649,0 12.5660697462198,55.6709745846649,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Auditorium della RAI di Napoli</name>
+		<address>Auditorium della RAI di Napoli, Nápoles, Italia</address>
+		<description><![CDATA[Año: 1965<br>Ciudad: Nápoles<br>País: Italia<br>Radiodifusora: RAI<br>Participantes: 18<br>geo: Auditorium della RAI di Napoli, Nápoles, Italia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1965.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Nápoles</value>
+			</Data>
+			<Data name="País">
+				<value>Italia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RAI</value>
+			</Data>
+			<Data name="Participantes">
+				<value>18.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Auditorium della RAI di Napoli, Nápoles, Italia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>14.1902029,40.8263541,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					14.1868920797625,40.8238709848218,0 14.1868920797625,40.8288372151781,0 14.1935137202375,40.8288372151781,0 14.1935137202375,40.8238709848218,0 14.1868920797625,40.8238709848218,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Grand Auditorium de RTL, Villa Louvigny</name>
+		<address>1 Bd Robert Schuman, 2525 Ville-Haute Luxembourg</address>
+		<description><![CDATA[Año: 1966<br>Ciudad: Luxemburgo<br>País: Luxemburgo<br>Radiodifusora: RTL<br>Participantes: 16<br>geo: 1 Bd Robert Schuman, 2525 Ville-Haute Luxembourg]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1966.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Luxemburgo</value>
+			</Data>
+			<Data name="País">
+				<value>Luxemburgo</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTL</value>
+			</Data>
+			<Data name="Participantes">
+				<value>16.0</value>
+			</Data>
+			<Data name="geo">
+				<value>1 Bd Robert Schuman, 2525 Ville-Haute Luxembourg</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>6.1264028,49.6170689,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					6.123568018395857,49.61494281379691,0 6.123568018395857,49.6191949862031,0 6.129237581604144,49.6191949862031,0 6.129237581604144,49.61494281379691,0 6.123568018395857,49.61494281379691,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Großer Festsaal der Wiener Hofburg</name>
+		<address>Großer Festsaal der Wiener Hofburg, Viena, Austria</address>
+		<description><![CDATA[Año: 1967<br>Ciudad: Viena<br>País: Austria<br>Radiodifusora: ORF<br>Participantes: 17<br>geo: Großer Festsaal der Wiener Hofburg, Viena, Austria]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1967.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Viena</value>
+			</Data>
+			<Data name="País">
+				<value>Austria</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>ORF</value>
+			</Data>
+			<Data name="Participantes">
+				<value>17.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Großer Festsaal der Wiener Hofburg, Viena, Austria</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>16.365296,48.2061314,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					16.362380012515,48.2039444093863,0 16.362380012515,48.2083183906137,0 16.368211987485,48.2083183906137,0 16.368211987485,48.2039444093863,0 16.362380012515,48.2039444093863,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Royal Albert Hall</name>
+		<address>Royal Albert Hall, Londres, Reino Unido</address>
+		<description><![CDATA[Año: 1968<br>Ciudad: Londres<br>País: Reino Unido<br>Radiodifusora: BBC<br>Participantes: 17<br>geo: Royal Albert Hall, Londres, Reino Unido]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1968.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Londres</value>
+			</Data>
+			<Data name="País">
+				<value>Reino Unido</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>BBC</value>
+			</Data>
+			<Data name="Participantes">
+				<value>17.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Royal Albert Hall, Londres, Reino Unido</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-0.177366,51.5009088,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-0.180089681431486,51.49886603892639,0 -0.180089681431486,51.50295156107359,0 -0.174642318568514,51.50295156107359,0 -0.174642318568514,51.49886603892639,0 -0.180089681431486,51.49886603892639,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Teatro Real</name>
+		<address>Teatro Real, Madrid, España</address>
+		<description><![CDATA[Año: 1969<br>Ciudad: Madrid<br>País: España<br>Radiodifusora: RTVE<br>Participantes: 16<br>geo: Teatro Real, Madrid, España]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1969.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Madrid</value>
+			</Data>
+			<Data name="País">
+				<value>España</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTVE</value>
+			</Data>
+			<Data name="Participantes">
+				<value>16.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Teatro Real, Madrid, España</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-3.710578,40.418299,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-3.713909107999791,40.4158006690002,0 -3.713909107999791,40.4207973309998,0 -3.707246892000209,40.4207973309998,0 -3.707246892000209,40.4158006690002,0 -3.713909107999791,40.4158006690002,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>RAI Congrescentrum</name>
+		<address>RAI Congrescentrum, Ámsterdam, Países Bajos</address>
+		<description><![CDATA[Año: 1970<br>Ciudad: Ámsterdam<br>País: Países Bajos<br>Radiodifusora: NOS<br>Participantes: 12<br>geo: RAI Congrescentrum, Ámsterdam, Países Bajos]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1970.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Ámsterdam</value>
+			</Data>
+			<Data name="País">
+				<value>Países Bajos</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>NOS</value>
+			</Data>
+			<Data name="Participantes">
+				<value>12.0</value>
+			</Data>
+			<Data name="geo">
+				<value>RAI Congrescentrum, Ámsterdam, Países Bajos</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>4.8881543,52.3414484,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					4.88548114057971,52.3394435304348,0 4.88548114057971,52.3434532695652,0 4.89082745942029,52.3434532695652,0 4.89082745942029,52.3394435304348,0 4.88548114057971,52.3394435304348,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Gaiety Theatre</name>
+		<address>Gaiety Theatre, Dublín, Irlanda</address>
+		<description><![CDATA[Año: 1971<br>Ciudad: Dublín<br>País: Irlanda<br>Radiodifusora: RTÉ<br>Participantes: 18<br>geo: Gaiety Theatre, Dublín, Irlanda]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1971.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Dublín</value>
+			</Data>
+			<Data name="País">
+				<value>Irlanda</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTÉ</value>
+			</Data>
+			<Data name="Participantes">
+				<value>18.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Gaiety Theatre, Dublín, Irlanda</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-6.261575399999999,53.34046129999999,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-6.264187761931669,53.3385020285512,0 -6.264187761931669,53.3424205714487,0 -6.25896303806833,53.3424205714487,0 -6.25896303806833,53.3385020285512,0 -6.264187761931669,53.3385020285512,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Usher Hall</name>
+		<address>Usher Hall, Edimburgo, Reino Unido</address>
+		<description><![CDATA[Año: 1972<br>Ciudad: Edimburgo<br>País: Reino Unido<br>Radiodifusora: BBC<br>Participantes: 18<br>geo: Usher Hall, Edimburgo, Reino Unido]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1972.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Edimburgo</value>
+			</Data>
+			<Data name="País">
+				<value>Reino Unido</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>BBC</value>
+			</Data>
+			<Data name="Participantes">
+				<value>18.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Usher Hall, Edimburgo, Reino Unido</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-3.2053722,55.9471097,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-3.207822226934547,55.9452721797991,0 -3.207822226934547,55.94894722020089,0 -3.202922173065454,55.94894722020089,0 -3.202922173065454,55.9452721797991,0 -3.207822226934547,55.9452721797991,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Théâtre Municipal</name>
+		<address>Théâtre Municipal, Luxemburgo, Luxemburgo</address>
+		<description><![CDATA[Año: 1973<br>Ciudad: Luxemburgo<br>País: Luxemburgo<br>Radiodifusora: RTL<br>Participantes: 17<br>geo: Théâtre Municipal, Luxemburgo, Luxemburgo]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1973.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Luxemburgo</value>
+			</Data>
+			<Data name="País">
+				<value>Luxemburgo</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTL</value>
+			</Data>
+			<Data name="Participantes">
+				<value>17.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Théâtre Municipal, Luxemburgo, Luxemburgo</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>6.127630900000001,49.6174228,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					6.124796162261288,49.615296746696,0 6.124796162261288,49.619548853304,0 6.130465637738712,49.619548853304,0 6.130465637738712,49.615296746696,0 6.124796162261288,49.615296746696,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Brighton Dome</name>
+		<address>Brighton Dome, Brighton, Reino Unido</address>
+		<description><![CDATA[Año: 1974<br>Ciudad: Brighton<br>País: Reino Unido<br>Radiodifusora: BBC<br>Participantes: 17<br>geo: Brighton Dome, Brighton, Reino Unido]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1974.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Brighton</value>
+			</Data>
+			<Data name="País">
+				<value>Reino Unido</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>BBC</value>
+			</Data>
+			<Data name="Participantes">
+				<value>17.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Brighton Dome, Brighton, Reino Unido</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-0.1380842,50.8236999,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-0.140848160864333,50.82162692935179,0 -0.140848160864333,50.8257728706483,0 -0.135320239135667,50.8257728706483,0 -0.135320239135667,50.82162692935179,0 -0.140848160864333,50.82162692935179,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>St. Eriks Mässan Älvsjö</name>
+		<address>St. Eriks Mässan Älvsjö, Estocolmo, Suecia</address>
+		<description><![CDATA[Año: 1975<br>Ciudad: Estocolmo<br>País: Suecia<br>Radiodifusora: SR<br>Participantes: 19<br>geo: St. Eriks Mässan Älvsjö, Estocolmo, Suecia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1975.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Estocolmo</value>
+			</Data>
+			<Data name="País">
+				<value>Suecia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>SR</value>
+			</Data>
+			<Data name="Participantes">
+				<value>19.0</value>
+			</Data>
+			<Data name="geo">
+				<value>St. Eriks Mässan Älvsjö, Estocolmo, Suecia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>18.015006,59.27745479999999,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					18.012770705321,59.2757783289907,0 18.012770705321,59.27913127100931,0 18.017241294679,59.27913127100931,0 18.017241294679,59.2757783289907,0 18.012770705321,59.2757783289907,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Centro de Congresos de los Países Bajos</name>
+		<address>Centro de Congresos de los Países Bajos, La Haya, Países Bajos</address>
+		<description><![CDATA[Año: 1976<br>Ciudad: La Haya<br>País: Países Bajos<br>Radiodifusora: NOS<br>Participantes: 18<br>geo: Centro de Congresos de los Países Bajos, La Haya, Países Bajos]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1976.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>La Haya</value>
+			</Data>
+			<Data name="País">
+				<value>Países Bajos</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>NOS</value>
+			</Data>
+			<Data name="Participantes">
+				<value>18.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Centro de Congresos de los Países Bajos, La Haya, Países Bajos</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>4.2835977,52.0933348,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					4.280909571501073,52.0913187036258,0 4.280909571501073,52.09535089637419,0 4.286285828498927,52.09535089637419,0 4.286285828498927,52.0913187036258,0 4.280909571501073,52.0913187036258,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Centro de Congresos de Wembley</name>
+		<address>Centro de Congresos de Wembley, Londres, Reino Unido</address>
+		<description><![CDATA[Año: 1977<br>Ciudad: Londres<br>País: Reino Unido<br>Radiodifusora: BBC<br>Participantes: 18<br>geo: Centro de Congresos de Wembley, Londres, Reino Unido]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1977.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Londres</value>
+			</Data>
+			<Data name="País">
+				<value>Reino Unido</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>BBC</value>
+			</Data>
+			<Data name="Participantes">
+				<value>18.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Centro de Congresos de Wembley, Londres, Reino Unido</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-0.2852598,51.5558689,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-0.287980191524094,51.5538286063569,0 -0.287980191524094,51.55790919364311,0 -0.282539408475906,51.55790919364311,0 -0.282539408475906,51.5538286063569,0 -0.287980191524094,51.5538286063569,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Palais des congrès de Paris</name>
+		<address>Palais des congrès de Paris, París, Francia</address>
+		<description><![CDATA[Año: 1978<br>Ciudad: París<br>País: Francia<br>Radiodifusora: TF1<br>Participantes: 20<br>geo: Palais des congrès de Paris, París, Francia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1978.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>París</value>
+			</Data>
+			<Data name="País">
+				<value>Francia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>TF1</value>
+			</Data>
+			<Data name="Participantes">
+				<value>20.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Palais des congrès de Paris, París, Francia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>2.2836443,48.8793837,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					2.28076684829697,48.87722561122271,0 2.28076684829697,48.8815417887773,0 2.286521751703029,48.8815417887773,0 2.286521751703029,48.87722561122271,0 2.28076684829697,48.87722561122271,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Centro Internacional de Convenciones de Jerusalén</name>
+		<address>Centro Internacional de Convenciones de Jerusalén, Jerusalén, Israel</address>
+		<description><![CDATA[Año: 1979<br>Ciudad: Jerusalén<br>País: Israel<br>Radiodifusora: IBA<br>Participantes: 19<br>geo: Centro Internacional de Convenciones de Jerusalén, Jerusalén, Israel]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1979.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Jerusalén</value>
+			</Data>
+			<Data name="País">
+				<value>Israel</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>IBA</value>
+			</Data>
+			<Data name="Participantes">
+				<value>19.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Centro Internacional de Convenciones de Jerusalén, Jerusalén, Israel</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>35.2023975,31.7864423,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					35.1986783583896,31.7836529437922,0 35.1986783583896,31.7892316562078,0 35.2061166416104,31.7892316562078,0 35.2061166416104,31.7836529437922,0 35.1986783583896,31.7836529437922,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Centro de Congresos de los Países Bajos</name>
+		<address>Centro de Congresos de los Países Bajos, La Haya, Países Bajos</address>
+		<description><![CDATA[Año: 1980<br>Ciudad: La Haya<br>País: Países Bajos<br>Radiodifusora: NOS<br>Participantes: 19<br>geo: Centro de Congresos de los Países Bajos, La Haya, Países Bajos]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1980.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>La Haya</value>
+			</Data>
+			<Data name="País">
+				<value>Países Bajos</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>NOS</value>
+			</Data>
+			<Data name="Participantes">
+				<value>19.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Centro de Congresos de los Países Bajos, La Haya, Países Bajos</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>4.2835977,52.0933348,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					4.280909571501073,52.0913187036258,0 4.280909571501073,52.09535089637419,0 4.286285828498927,52.09535089637419,0 4.286285828498927,52.0913187036258,0 4.280909571501073,52.0913187036258,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>RDS Simmonscourt Pavilion</name>
+		<address>RDS Simmonscourt Pavilion, Dublín, Irlanda</address>
+		<description><![CDATA[Año: 1981<br>Ciudad: Dublín<br>País: Irlanda<br>Radiodifusora: RTÉ<br>Participantes: 20<br>geo: RDS Simmonscourt Pavilion, Dublín, Irlanda]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1981.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Dublín</value>
+			</Data>
+			<Data name="País">
+				<value>Irlanda</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTÉ</value>
+			</Data>
+			<Data name="Participantes">
+				<value>20.0</value>
+			</Data>
+			<Data name="geo">
+				<value>RDS Simmonscourt Pavilion, Dublín, Irlanda</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-6.224989300000001,53.32300670000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Centro Internacional de Convenciones de Harrogate</name>
+		<address>Centro Internacional de Convenciones de Harrogate, Harrogate, Reino Unido</address>
+		<description><![CDATA[Año: 1982<br>Ciudad: Harrogate<br>País: Reino Unido<br>Radiodifusora: BBC<br>Participantes: 18<br>geo: Centro Internacional de Convenciones de Harrogate, Harrogate, Reino Unido]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1982.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Harrogate</value>
+			</Data>
+			<Data name="País">
+				<value>Reino Unido</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>BBC</value>
+			</Data>
+			<Data name="Participantes">
+				<value>18.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Centro Internacional de Convenciones de Harrogate, Harrogate, Reino Unido</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-1.5429121,53.9958457,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-1.545484138633391,53.993916671025,0 -1.545484138633391,53.997774728975,0 -1.540340061366609,53.997774728975,0 -1.540340061366609,53.993916671025,0 -1.545484138633391,53.993916671025,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Rudi-Sedlmayer-Halle</name>
+		<address>Rudi-Sedlmayer-Halle, Múnich, Alemania</address>
+		<description><![CDATA[Año: 1983<br>Ciudad: Múnich<br>País: Alemania<br>Radiodifusora: ARD<br>Participantes: 20<br>geo: Rudi-Sedlmayer-Halle, Múnich, Alemania]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1983.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Múnich</value>
+			</Data>
+			<Data name="País">
+				<value>Alemania</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>ARD</value>
+			</Data>
+			<Data name="Participantes">
+				<value>20.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Rudi-Sedlmayer-Halle, Múnich, Alemania</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>11.5253135,48.1261064,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					11.5223929614765,48.1239159961074,0 11.5223929614765,48.1282968038926,0 11.5282340385235,48.1282968038926,0 11.5282340385235,48.1239159961074,0 11.5223929614765,48.1239159961074,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Théâtre Municipal</name>
+		<address>Théâtre Municipal, Luxemburgo, Luxemburgo</address>
+		<description><![CDATA[Año: 1984<br>Ciudad: Luxemburgo<br>País: Luxemburgo<br>Radiodifusora: RTL<br>Participantes: 19<br>geo: Théâtre Municipal, Luxemburgo, Luxemburgo]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1984.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Luxemburgo</value>
+			</Data>
+			<Data name="País">
+				<value>Luxemburgo</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTL</value>
+			</Data>
+			<Data name="Participantes">
+				<value>19.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Théâtre Municipal, Luxemburgo, Luxemburgo</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>6.127630900000001,49.6174228,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					6.124796162261288,49.615296746696,0 6.124796162261288,49.619548853304,0 6.130465637738712,49.619548853304,0 6.130465637738712,49.615296746696,0 6.124796162261288,49.615296746696,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Scandinavium</name>
+		<address>Scandinavium, Gotemburgo, Suecia</address>
+		<description><![CDATA[Año: 1985<br>Ciudad: Gotemburgo<br>País: Suecia<br>Radiodifusora: SVT<br>Participantes: 19<br>geo: Scandinavium, Gotemburgo, Suecia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1985.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Gotemburgo</value>
+			</Data>
+			<Data name="País">
+				<value>Suecia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>SVT</value>
+			</Data>
+			<Data name="Participantes">
+				<value>19.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Scandinavium, Gotemburgo, Suecia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>11.9876696,57.69928359999999,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					11.9853315615131,57.6975300711348,0 11.9853315615131,57.7010371288652,0 11.9900076384869,57.7010371288652,0 11.9900076384869,57.6975300711348,0 11.9853315615131,57.6975300711348,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Grieghallen</name>
+		<address>Grieghallen, Bergen, Noruega</address>
+		<description><![CDATA[Año: 1986<br>Ciudad: Bergen<br>País: Noruega<br>Radiodifusora: NRK<br>Participantes: 20<br>geo: Grieghallen, Bergen, Noruega]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1986.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Bergen</value>
+			</Data>
+			<Data name="País">
+				<value>Noruega</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>NRK</value>
+			</Data>
+			<Data name="Participantes">
+				<value>20.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Grieghallen, Bergen, Noruega</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>5.3282038,60.388862,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					5.326041881222205,60.3872405609167,0 5.326041881222205,60.3904834390833,0 5.330365718777795,60.3904834390833,0 5.330365718777795,60.3872405609167,0 5.326041881222205,60.3872405609167,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Palais du Centenaire</name>
+		<address>Palais du Centenaire, Bruselas, Bélgica</address>
+		<description><![CDATA[Año: 1987<br>Ciudad: Bruselas<br>País: Bélgica<br>Radiodifusora: RTBF<br>Participantes: 22<br>geo: Palais du Centenaire, Bruselas, Bélgica]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1987.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Bruselas</value>
+			</Data>
+			<Data name="País">
+				<value>Bélgica</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTBF</value>
+			</Data>
+			<Data name="Participantes">
+				<value>22.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Palais du Centenaire, Bruselas, Bélgica</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>4.3372348,50.8998637,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					4.334475346308795,50.89779410973159,0 4.334475346308795,50.90193329026841,0 4.339994253691205,50.90193329026841,0 4.339994253691205,50.89779410973159,0 4.334475346308795,50.89779410973159,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>RDS Simmonscourt Pavilion</name>
+		<address>RDS Simmonscourt Pavilion, Dublín, Irlanda</address>
+		<description><![CDATA[Año: 1988<br>Ciudad: Dublín<br>País: Irlanda<br>Radiodifusora: RTÉ<br>Participantes: 21<br>geo: RDS Simmonscourt Pavilion, Dublín, Irlanda]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1988.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Dublín</value>
+			</Data>
+			<Data name="País">
+				<value>Irlanda</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTÉ</value>
+			</Data>
+			<Data name="Participantes">
+				<value>21.0</value>
+			</Data>
+			<Data name="geo">
+				<value>RDS Simmonscourt Pavilion, Dublín, Irlanda</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-6.224989300000001,53.32300670000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Palais de Beaulieu</name>
+		<address>Palais de Beaulieu, Lausana, Suiza</address>
+		<description><![CDATA[Año: 1989<br>Ciudad: Lausana<br>País: Suiza<br>Radiodifusora: SRG SSR<br>Participantes: 22<br>geo: Palais de Beaulieu, Lausana, Suiza]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1989.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Lausana</value>
+			</Data>
+			<Data name="País">
+				<value>Suiza</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>SRG SSR</value>
+			</Data>
+			<Data name="Participantes">
+				<value>22.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Palais de Beaulieu, Lausana, Suiza</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>6.623266,46.52934019999999,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					6.620255811500027,46.527082558625,0 6.620255811500027,46.531597841375,0 6.626276188499974,46.531597841375,0 6.626276188499974,46.527082558625,0 6.620255811500027,46.527082558625,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Sala de Conciertos Vatroslav Lisinski</name>
+		<address>Sala de Conciertos Vatroslav Lisinski, Zagreb, Yugoslavia</address>
+		<description><![CDATA[Año: 1990<br>Ciudad: Zagreb<br>País: Yugoslavia<br>Radiodifusora: JRT<br>Participantes: 22<br>geo: Sala de Conciertos Vatroslav Lisinski, Zagreb, Yugoslavia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1990.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Zagreb</value>
+			</Data>
+			<Data name="País">
+				<value>Yugoslavia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>JRT</value>
+			</Data>
+			<Data name="Participantes">
+				<value>22.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Sala de Conciertos Vatroslav Lisinski, Zagreb, Yugoslavia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>15.9798322,45.8009981,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					15.9767818965625,45.7987103724219,0 15.9767818965625,45.8032858275781,0 15.9828825034374,45.8032858275781,0 15.9828825034374,45.7987103724219,0 15.9767818965625,45.7987103724219,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Estudios Cinecittà</name>
+		<address>Estudios Cinecittà, Roma, Italia</address>
+		<description><![CDATA[Año: 1991<br>Ciudad: Roma<br>País: Italia<br>Radiodifusora: RAI<br>Participantes: 22<br>geo: Estudios Cinecittà, Roma, Italia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1991.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Roma</value>
+			</Data>
+			<Data name="País">
+				<value>Italia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RAI</value>
+			</Data>
+			<Data name="Participantes">
+				<value>22.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Estudios Cinecittà, Roma, Italia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>12.5771795,41.8517904,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					12.5739203971067,41.84934607283,0 12.5739203971067,41.85423472717,0 12.5804386028933,41.85423472717,0 12.5804386028933,41.84934607283,0 12.5739203971067,41.84934607283,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Malmö Isstadion</name>
+		<address>Malmö Isstadion, Malmö, Suecia</address>
+		<description><![CDATA[Año: 1992<br>Ciudad: Malmö<br>País: Suecia<br>Radiodifusora: SVT<br>Participantes: 23<br>geo: Malmö Isstadion, Malmö, Suecia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1992.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Malmö</value>
+			</Data>
+			<Data name="País">
+				<value>Suecia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>SVT</value>
+			</Data>
+			<Data name="Participantes">
+				<value>23.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Malmö Isstadion, Malmö, Suecia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>12.9904641,55.5830567,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					12.9879910875791,55.5812019406844,0 12.9879910875791,55.5849114593156,0 12.9929371124209,55.5849114593156,0 12.9929371124209,55.5812019406844,0 12.9879910875791,55.5812019406844,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Green Glens Arena</name>
+		<address>Green Glens Arena, Millstreet, Irlanda</address>
+		<description><![CDATA[Año: 1993<br>Ciudad: Millstreet<br>País: Irlanda<br>Radiodifusora: RTÉ<br>Participantes: 25<br>geo: Green Glens Arena, Millstreet, Irlanda]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1993.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Millstreet</value>
+			</Data>
+			<Data name="País">
+				<value>Irlanda</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTÉ</value>
+			</Data>
+			<Data name="Participantes">
+				<value>25.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Green Glens Arena, Millstreet, Irlanda</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-9.062826599999999,52.0627789,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-9.065516570847066,52.0607614218647,0 -9.065516570847066,52.0647963781353,0 -9.060136629152932,52.0647963781353,0 -9.060136629152932,52.0607614218647,0 -9.065516570847066,52.0607614218647,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Point Theatre</name>
+		<address>Point Theatre, Dublín, Irlanda</address>
+		<description><![CDATA[Año: 1994<br>Ciudad: Dublín<br>País: Irlanda<br>Radiodifusora: RTÉ<br>Participantes: 25<br>geo: Point Theatre, Dublín, Irlanda]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1994.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Dublín</value>
+			</Data>
+			<Data name="País">
+				<value>Irlanda</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTÉ</value>
+			</Data>
+			<Data name="Participantes">
+				<value>25.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Point Theatre, Dublín, Irlanda</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-6.2285078,53.3474963,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Point Theatre</name>
+		<address>Point Theatre, Dublín, Irlanda</address>
+		<description><![CDATA[Año: 1995<br>Ciudad: Dublín<br>País: Irlanda<br>Radiodifusora: RTÉ<br>Participantes: 23<br>geo: Point Theatre, Dublín, Irlanda]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1995.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Dublín</value>
+			</Data>
+			<Data name="País">
+				<value>Irlanda</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTÉ</value>
+			</Data>
+			<Data name="Participantes">
+				<value>23.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Point Theatre, Dublín, Irlanda</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-6.2285078,53.3474963,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Oslo Spektrum</name>
+		<address>Oslo Spektrum, Oslo, Noruega</address>
+		<description><![CDATA[Año: 1996<br>Ciudad: Oslo<br>País: Noruega<br>Radiodifusora: NRK<br>Participantes: 23<br>geo: Oslo Spektrum, Oslo, Noruega]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1996.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Oslo</value>
+			</Data>
+			<Data name="País">
+				<value>Noruega</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>NRK</value>
+			</Data>
+			<Data name="Participantes">
+				<value>23.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Oslo Spektrum, Oslo, Noruega</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>10.7547424,59.9129853,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					10.7525489639094,59.911340222932,0 10.7525489639094,59.914630377068,0 10.7569358360906,59.914630377068,0 10.7569358360906,59.911340222932,0 10.7525489639094,59.911340222932,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Point Theatre</name>
+		<address>Point Theatre, Dublín, Irlanda</address>
+		<description><![CDATA[Año: 1997<br>Ciudad: Dublín<br>País: Irlanda<br>Radiodifusora: RTÉ<br>Participantes: 25<br>geo: Point Theatre, Dublín, Irlanda]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1997.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Dublín</value>
+			</Data>
+			<Data name="País">
+				<value>Irlanda</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTÉ</value>
+			</Data>
+			<Data name="Participantes">
+				<value>25.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Point Theatre, Dublín, Irlanda</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-6.2285078,53.3474963,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>National Indoor Arena</name>
+		<address>National Indoor Arena, Birmingham, Reino Unido</address>
+		<description><![CDATA[Año: 1998<br>Ciudad: Birmingham<br>País: Reino Unido<br>Radiodifusora: BBC<br>Participantes: 25<br>geo: National Indoor Arena, Birmingham, Reino Unido]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1998.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Birmingham</value>
+			</Data>
+			<Data name="País">
+				<value>Reino Unido</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>BBC</value>
+			</Data>
+			<Data name="Participantes">
+				<value>25.0</value>
+			</Data>
+			<Data name="geo">
+				<value>National Indoor Arena, Birmingham, Reino Unido</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-1.915044,52.479777,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-1.917708781122796,52.4777784141579,0 -1.917708781122796,52.4817755858421,0 -1.912379218877204,52.4817755858421,0 -1.912379218877204,52.4777784141579,0 -1.917708781122796,52.4777784141579,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Centro Internacional de Convenciones de Jerusalén</name>
+		<address>Centro Internacional de Convenciones de Jerusalén, Jerusalén, Israel</address>
+		<description><![CDATA[Año: 1999<br>Ciudad: Jerusalén<br>País: Israel<br>Radiodifusora: IBA<br>Participantes: 23<br>geo: Centro Internacional de Convenciones de Jerusalén, Jerusalén, Israel]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>1999.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Jerusalén</value>
+			</Data>
+			<Data name="País">
+				<value>Israel</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>IBA</value>
+			</Data>
+			<Data name="Participantes">
+				<value>23.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Centro Internacional de Convenciones de Jerusalén, Jerusalén, Israel</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>35.2023975,31.7864423,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					35.1986783583896,31.7836529437922,0 35.1986783583896,31.7892316562078,0 35.2061166416104,31.7892316562078,0 35.2061166416104,31.7836529437922,0 35.1986783583896,31.7836529437922,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Globen Arena</name>
+		<address>Globen Arena, Estocolmo, Suecia</address>
+		<description><![CDATA[Año: 2000<br>Ciudad: Estocolmo<br>País: Suecia<br>Radiodifusora: SVT<br>Participantes: 24<br>geo: Globen Arena, Estocolmo, Suecia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2000.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Estocolmo</value>
+			</Data>
+			<Data name="País">
+				<value>Suecia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>SVT</value>
+			</Data>
+			<Data name="Participantes">
+				<value>24.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Globen Arena, Estocolmo, Suecia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>18.0835501,59.2935725,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					18.0813158580914,59.2918968185685,0 18.0813158580914,59.2952481814315,0 18.0857843419086,59.2952481814315,0 18.0857843419086,59.2918968185685,0 18.0813158580914,59.2918968185685,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Parken Stadion</name>
+		<address>Parken Stadion, Copenhague, Dinamarca</address>
+		<description><![CDATA[Año: 2001<br>Ciudad: Copenhague<br>País: Dinamarca<br>Radiodifusora: DR<br>Participantes: 23<br>geo: Parken Stadion, Copenhague, Dinamarca]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2001.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Copenhague</value>
+			</Data>
+			<Data name="País">
+				<value>Dinamarca</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>DR</value>
+			</Data>
+			<Data name="Participantes">
+				<value>23.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Parken Stadion, Copenhague, Dinamarca</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>12.5716352,55.7031114,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					12.5691697543661,55.7012623157746,0 12.5691697543661,55.7049604842254,0 12.5741006456339,55.7049604842254,0 12.5741006456339,55.7012623157746,0 12.5691697543661,55.7012623157746,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Saku Suurhall</name>
+		<address>Saku Suurhall, Tallin, Estonia</address>
+		<description><![CDATA[Año: 2002<br>Ciudad: Tallin<br>País: Estonia<br>Radiodifusora: ERR<br>Participantes: 24<br>geo: Saku Suurhall, Tallin, Estonia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2002.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Tallin</value>
+			</Data>
+			<Data name="País">
+				<value>Estonia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>ERR</value>
+			</Data>
+			<Data name="Participantes">
+				<value>24.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Saku Suurhall, Tallin, Estonia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>24.6474653,59.4261914,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					24.6452397763459,59.4245222572595,0 24.6452397763459,59.4278605427405,0 24.6496908236541,59.4278605427405,0 24.6496908236541,59.4245222572595,0 24.6452397763459,59.4245222572595,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Skonto Hall</name>
+		<address>Skonto Hall, Riga, Letonia</address>
+		<description><![CDATA[Año: 2003<br>Ciudad: Riga<br>País: Letonia<br>Radiodifusora: LTV<br>Participantes: 26<br>geo: Skonto Hall, Riga, Letonia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2003.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Riga</value>
+			</Data>
+			<Data name="País">
+				<value>Letonia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>LTV</value>
+			</Data>
+			<Data name="Participantes">
+				<value>26.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Skonto Hall, Riga, Letonia</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>24.1148624,56.9614562,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Abdi İpekçi Arena</name>
+		<address>Abdi İpekçi Arena, Estambul, Turquía</address>
+		<description><![CDATA[Año: 2004<br>Ciudad: Estambul<br>País: Turquía<br>Radiodifusora: TRT<br>Participantes: 36<br>geo: Abdi İpekçi Arena, Estambul, Turquía]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2004.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Estambul</value>
+			</Data>
+			<Data name="País">
+				<value>Turquía</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>TRT</value>
+			</Data>
+			<Data name="Participantes">
+				<value>36.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Abdi İpekçi Arena, Estambul, Turquía</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>28.9194125,40.9968388,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					28.9161102006226,40.994362075467,0 28.9161102006226,40.999315524533,0 28.9227147993774,40.999315524533,0 28.9227147993774,40.994362075467,0 28.9161102006226,40.994362075467,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Palacio de los Deportes de Kiev</name>
+		<address>Palacio de los Deportes de Kiev, Kiev, Ucrania</address>
+		<description><![CDATA[Año: 2005<br>Ciudad: Kiev<br>País: Ucrania<br>Radiodifusora: NTU<br>Participantes: 39<br>geo: Palacio de los Deportes de Kiev, Kiev, Ucrania]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2005.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Kiev</value>
+			</Data>
+			<Data name="País">
+				<value>Ucrania</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>NTU</value>
+			</Data>
+			<Data name="Participantes">
+				<value>39.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Palacio de los Deportes de Kiev, Kiev, Ucrania</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>30.5224655,50.4371855,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					30.5196787181447,50.4350954136085,0 30.5196787181447,50.43927558639151,0 30.5252522818553,50.43927558639151,0 30.5252522818553,50.4350954136085,0 30.5196787181447,50.4350954136085,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Olympic Indoor Hall</name>
+		<address>Olympic Indoor Hall, Atenas, Grecia</address>
+		<description><![CDATA[Año: 2006<br>Ciudad: Atenas<br>País: Grecia<br>Radiodifusora: ERT<br>Participantes: 37<br>geo: Olympic Indoor Hall, Atenas, Grecia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2006.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Atenas</value>
+			</Data>
+			<Data name="País">
+				<value>Grecia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>ERT</value>
+			</Data>
+			<Data name="Participantes">
+				<value>37.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Olympic Indoor Hall, Atenas, Grecia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>23.7842981,38.037713,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					23.7808520316695,38.0351284487522,0 23.7808520316695,38.0402975512478,0 23.7877441683305,38.0402975512478,0 23.7877441683305,38.0351284487522,0 23.7808520316695,38.0351284487522,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Hartwall Areena</name>
+		<address>Hartwall Areena, Helsinki, Finlandia</address>
+		<description><![CDATA[Año: 2007<br>Ciudad: Helsinki<br>País: Finlandia<br>Radiodifusora: YLE<br>Participantes: 42<br>geo: Hartwall Areena, Helsinki, Finlandia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2007.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Helsinki</value>
+			</Data>
+			<Data name="País">
+				<value>Finlandia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>YLE</value>
+			</Data>
+			<Data name="Participantes">
+				<value>42.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Hartwall Areena, Helsinki, Finlandia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>24.9291895,60.205747,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					24.9270154304976,60.2041164478732,0 24.9270154304976,60.20737755212679,0 24.9313635695024,60.20737755212679,0 24.9313635695024,60.2041164478732,0 24.9270154304976,60.2041164478732,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Belgrade Arena</name>
+		<address>Belgrade Arena, Belgrado, Serbia</address>
+		<description><![CDATA[Año: 2008<br>Ciudad: Belgrado<br>País: Serbia<br>Radiodifusora: RTS<br>Participantes: 43<br>geo: Belgrade Arena, Belgrado, Serbia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2008.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Belgrado</value>
+			</Data>
+			<Data name="País">
+				<value>Serbia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTS</value>
+			</Data>
+			<Data name="Participantes">
+				<value>43.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Belgrade Arena, Belgrado, Serbia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>20.4212894,44.81414609999999,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					20.4181855259038,44.8118181944279,0 20.4181855259038,44.8164740055721,0 20.4243932740962,44.8164740055721,0 20.4243932740962,44.8118181944279,0 20.4181855259038,44.8118181944279,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Estadio Olimpiski</name>
+		<address>Estadio Olimpiski, Moscú, Rusia</address>
+		<description><![CDATA[Año: 2009<br>Ciudad: Moscú<br>País: Rusia<br>Radiodifusora: C1R<br>Participantes: 42<br>geo: Estadio Olimpiski, Moscú, Rusia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2009.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Moscú</value>
+			</Data>
+			<Data name="País">
+				<value>Rusia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>C1R</value>
+			</Data>
+			<Data name="Participantes">
+				<value>42.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Estadio Olimpiski, Moscú, Rusia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>37.6260793,55.7812018,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					37.6236187892272,55.7793564169204,0 37.6236187892272,55.7830471830796,0 37.6285398107728,55.7830471830796,0 37.6285398107728,55.7793564169204,0 37.6236187892272,55.7793564169204,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Telenor Arena</name>
+		<address>Telenor Arena, Oslo9​, Noruega</address>
+		<description><![CDATA[Año: 2010<br>Ciudad: Oslo9​<br>País: Noruega<br>Radiodifusora: NRK<br>Participantes: 39<br>geo: Telenor Arena, Oslo9​, Noruega]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2010.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Oslo9​</value>
+			</Data>
+			<Data name="País">
+				<value>Noruega</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>NRK</value>
+			</Data>
+			<Data name="Participantes">
+				<value>39.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Telenor Arena, Oslo9​, Noruega</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>10.623884,59.9031487,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					10.6216899059279,59.90150312944591,0 10.6216899059279,59.90479427055409,0 10.6260780940721,59.90479427055409,0 10.6260780940721,59.90150312944591,0 10.6216899059279,59.90150312944591,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Esprit Arena</name>
+		<address>Esprit Arena, Düsseldorf, Alemania</address>
+		<description><![CDATA[Año: 2011<br>Ciudad: Düsseldorf<br>País: Alemania<br>Radiodifusora: ARD y NDR.<br>Participantes: 43<br>geo: Esprit Arena, Düsseldorf, Alemania]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2011.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Düsseldorf</value>
+			</Data>
+			<Data name="País">
+				<value>Alemania</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>ARD y NDR.</value>
+			</Data>
+			<Data name="Participantes">
+				<value>43.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Esprit Arena, Düsseldorf, Alemania</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>6.7335671,51.2617881,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					6.730829151336787,51.2597346385026,0 6.730829151336787,51.2638415614974,0 6.736305048663214,51.2638415614974,0 6.736305048663214,51.2597346385026,0 6.730829151336787,51.2597346385026,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Baku Crystal Hall</name>
+		<address>Baku Crystal Hall, Bakú, Azerbaiyán</address>
+		<description><![CDATA[Año: 2012<br>Ciudad: Bakú<br>País: Azerbaiyán<br>Radiodifusora: İTV<br>Participantes: 42<br>geo: Baku Crystal Hall, Bakú, Azerbaiyán]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2012.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Bakú</value>
+			</Data>
+			<Data name="País">
+				<value>Azerbaiyán</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>İTV</value>
+			</Data>
+			<Data name="Participantes">
+				<value>42.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Baku Crystal Hall, Bakú, Azerbaiyán</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>49.8502798,40.3442264,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					49.8469450182703,40.3417253137027,0 49.8469450182703,40.3467274862973,0 49.85361458172971,40.3467274862973,0 49.85361458172971,40.3417253137027,0 49.8469450182703,40.3417253137027,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Malmö Arena</name>
+		<address>Malmö Arena, Malmö, Suecia</address>
+		<description><![CDATA[Año: 2013<br>Ciudad: Malmö<br>País: Suecia<br>Radiodifusora: SVT<br>Participantes: 39<br>geo: Malmö Arena, Malmö, Suecia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2013.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Malmö</value>
+			</Data>
+			<Data name="País">
+				<value>Suecia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>SVT</value>
+			</Data>
+			<Data name="Participantes">
+				<value>39.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Malmö Arena, Malmö, Suecia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>12.9762167,55.5637646,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					12.9737424703134,55.561908927735,0 12.9737424703134,55.565620272265,0 12.9786909296866,55.565620272265,0 12.9786909296866,55.561908927735,0 12.9737424703134,55.561908927735,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>B&amp;W Hallerne</name>
+		<address>B&amp;W Hallerne, Copenhague, Dinamarca</address>
+		<description><![CDATA[Año: 2014<br>Ciudad: Copenhague<br>País: Dinamarca<br>Radiodifusora: DR<br>Participantes: 37<br>geo: B&W Hallerne, Copenhague, Dinamarca]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2014.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Copenhague</value>
+			</Data>
+			<Data name="País">
+				<value>Dinamarca</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>DR</value>
+			</Data>
+			<Data name="Participantes">
+				<value>37.0</value>
+			</Data>
+			<Data name="geo">
+				<value>B&amp;W Hallerne, Copenhague, Dinamarca</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>12.6141962,55.69314749999999,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					12.6117301292837,55.6912979469628,0 12.6117301292837,55.6949970530372,0 12.6166622707163,55.6949970530372,0 12.6166622707163,55.6912979469628,0 12.6117301292837,55.6912979469628,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Wiener Stadthalle</name>
+		<address>Wiener Stadthalle, Viena, Austria</address>
+		<description><![CDATA[Año: 2015<br>Ciudad: Viena<br>País: Austria<br>Radiodifusora: ORF<br>Participantes: 40<br>geo: Wiener Stadthalle, Viena, Austria]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2015.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Viena</value>
+			</Data>
+			<Data name="País">
+				<value>Austria</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>ORF</value>
+			</Data>
+			<Data name="Participantes">
+				<value>40.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Wiener Stadthalle, Viena, Austria</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>16.3337406,48.20240769999999,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					16.3308244041542,48.2002205531157,0 16.3308244041542,48.2045948468843,0 16.3366567958458,48.2045948468843,0 16.3366567958458,48.2002205531157,0 16.3308244041542,48.2002205531157,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Globen Arena</name>
+		<address>Globen Arena, Estocolmo, Suecia</address>
+		<description><![CDATA[Año: 2016<br>Ciudad: Estocolmo<br>País: Suecia<br>Radiodifusora: SVT<br>Participantes: 42<br>geo: Globen Arena, Estocolmo, Suecia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2016.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Estocolmo</value>
+			</Data>
+			<Data name="País">
+				<value>Suecia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>SVT</value>
+			</Data>
+			<Data name="Participantes">
+				<value>42.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Globen Arena, Estocolmo, Suecia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>18.0835501,59.2935725,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					18.0813158580914,59.2918968185685,0 18.0813158580914,59.2952481814315,0 18.0857843419086,59.2952481814315,0 18.0857843419086,59.2918968185685,0 18.0813158580914,59.2918968185685,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Centro Internacional de Exposiciones</name>
+		<address>Centro Internacional de Exposiciones, Kiev, Ucrania</address>
+		<description><![CDATA[Año: 2017<br>Ciudad: Kiev<br>País: Ucrania<br>Radiodifusora: NTU<br>Participantes: 42<br>geo: Centro Internacional de Exposiciones, Kiev, Ucrania]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2017.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Kiev</value>
+			</Data>
+			<Data name="País">
+				<value>Ucrania</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>NTU</value>
+			</Data>
+			<Data name="Participantes">
+				<value>42.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Centro Internacional de Exposiciones, Kiev, Ucrania</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>30.5914153,50.4520681,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					30.5886293954534,50.44997867159,0 30.5886293954534,50.45415752841001,0 30.5942012045466,50.45415752841001,0 30.5942012045466,50.44997867159,0 30.5886293954534,50.44997867159,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Altice Arena</name>
+		<address>Altice Arena, Lisboa, Portugal</address>
+		<description><![CDATA[Año: 2018<br>Ciudad: Lisboa<br>País: Portugal<br>Radiodifusora: RTP<br>Participantes: 43<br>geo: Altice Arena, Lisboa, Portugal]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2018.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Lisboa</value>
+			</Data>
+			<Data name="País">
+				<value>Portugal</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RTP</value>
+			</Data>
+			<Data name="Participantes">
+				<value>43.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Altice Arena, Lisboa, Portugal</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-9.0940297,38.7685312,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-9.097441103672892,38.7659726472453,0 -9.097441103672892,38.7710897527547,0 -9.090618296327108,38.7710897527547,0 -9.090618296327108,38.7659726472453,0 -9.097441103672892,38.7659726472453,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Expo Tel Aviv</name>
+		<address>Expo Tel Aviv, Tel Aviv, Israel</address>
+		<description><![CDATA[Año: 2019<br>Ciudad: Tel Aviv<br>País: Israel<br>Radiodifusora: IPBC<br>Participantes: 41<br>geo: Expo Tel Aviv, Tel Aviv, Israel]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2019.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Tel Aviv</value>
+			</Data>
+			<Data name="País">
+				<value>Israel</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>IPBC</value>
+			</Data>
+			<Data name="Participantes">
+				<value>41.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Expo Tel Aviv, Tel Aviv, Israel</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>34.8100852,32.1064109,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					34.8063789767593,32.1036312325695,0 34.8063789767593,32.1091905674305,0 34.8137914232407,32.1091905674305,0 34.8137914232407,32.1036312325695,0 34.8063789767593,32.1036312325695,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[Año: 2020<br>Ciudad: <br>País: Edición cancelada por la pandemia de COVID-19<br>Radiodifusora: <br>Participantes: <br>geo: Edición cancelada por la pandemia de COVID-19]]></description>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2020.0</value>
+			</Data>
+			<Data name="Ciudad">
+			</Data>
+			<Data name="País">
+				<value>Edición cancelada por la pandemia de COVID-19</value>
+			</Data>
+			<Data name="Radiodifusora">
+			</Data>
+			<Data name="Participantes">
+			</Data>
+			<Data name="geo">
+				<value>Edición cancelada por la pandemia de COVID-19</value>
+			</Data>
+		</ExtendedData>
+	</Placemark>
+	<Placemark>
+		<name>Rotterdam Ahoy</name>
+		<address>Rotterdam Ahoy, Róterdam, Países Bajos</address>
+		<description><![CDATA[Año: 2021<br>Ciudad: Róterdam<br>País: Países Bajos<br>Radiodifusora: AVROTROS, NPO y NOS<br>Participantes: 39<br>geo: Rotterdam Ahoy, Róterdam, Países Bajos]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2021.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Róterdam</value>
+			</Data>
+			<Data name="País">
+				<value>Países Bajos</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>AVROTROS, NPO y NOS</value>
+			</Data>
+			<Data name="Participantes">
+				<value>39.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Rotterdam Ahoy, Róterdam, Países Bajos</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>4.488110199999999,51.88275079999999,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					4.485409394391252,51.8807251957934,0 4.485409394391252,51.8847764042066,0 4.490811005608747,51.8847764042066,0 4.490811005608747,51.8807251957934,0 4.485409394391252,51.8807251957934,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Pala Alpitour</name>
+		<address>Pala Alpitour, Turín, Italia</address>
+		<description><![CDATA[Año: 2022<br>Ciudad: Turín<br>País: Italia<br>Radiodifusora: RAI<br>Participantes: 41<br>geo: Pala Alpitour, Turín, Italia]]></description>
+		<styleUrl>#icon-1899-0288D1</styleUrl>
+		<ExtendedData>
+			<Data name="Año">
+				<value>2022.0</value>
+			</Data>
+			<Data name="Ciudad">
+				<value>Turín</value>
+			</Data>
+			<Data name="País">
+				<value>Italia</value>
+			</Data>
+			<Data name="Radiodifusora">
+				<value>RAI</value>
+			</Data>
+			<Data name="Participantes">
+				<value>41.0</value>
+			</Data>
+			<Data name="geo">
+				<value>Pala Alpitour, Turín, Italia</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>7.6521908,45.04152850000001,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					7.649099186292053,45.039209789719,0 7.649099186292053,45.043847210281,0 7.655282413707947,45.043847210281,0 7.655282413707947,45.039209789719,0 7.649099186292053,45.039209789719,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
