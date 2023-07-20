@@ -78,7 +78,7 @@ y añadiríamos top: 0; y left: 0;
   left: 0;
 /*
 EDITA
-Aquí podemos cambiar el color de la caja de la leyenda y la opacidad (0.8 es igual a 80% de opacidad)
+Aquí podemos cambiar el color de la caja de la leyenda y la opacidad (0.7 es igual a 70% de opacidad)
 */
   background: rgba(255, 255, 255, 0.9);
 /*
@@ -207,11 +207,11 @@ Aquí editamos qué contenido y cómo (mediante html) mostramos en los tooltips.
 En features.properties.name, name es el nombre de la columna con los datos que queremos mostrar 
 (de nuevo, minúsculas, sin espacios, sin caracteres extraños, SIN NÚMEROS...)
 */
-'<h3>' +
+'<b><h3></b>' +
 feature.properties.name +
-'</h3><p>' +
+'<b></h3><p></b>' +
 feature.properties.año +
-'</p><p>País: <b>' +
+'<hr></p><p>País: <b>' +
 feature.properties.país + 
 '</b><p>Ciudad: <b>' +
 feature.properties.ciudad +
@@ -231,7 +231,7 @@ map.on('load', function() {
 Entre las comillas simples pondremos los nombres de los items.
 En el último item podemos añadir con HTML otros textos aclaratorios en la leyenda.
 */
-    var layers = ['Sedes año 1956-1999','Sedes año 2000', 'Sedes año 2022<br> Sedes históricas de Eurovisión<hr><p style="font-size: 0.9em; line-height: 1.2em;">Fuente: Eurodata<br>Mapa: Francis Barroeta</p>'];
+    var layers = ['Sedes año <b>1956<b/>','Sedes año <b>2000</b>', 'Sedes año <b>2022<br><b>Sedes históricas de Eurovisión</b><hr></b><p style="font-size: 0.9em; line-height: 1.2em;">Fuente: Eurodata<br>Mapa: Francis Barroeta</p>'];
 /* 
 Entre las comillas simples pondremos los colores de los círculos o cuadrados de los items.
 Deberán ir tantos colores como items hemos indicado en layers.
